@@ -23,10 +23,10 @@ Each device is provided as a `.simdevicetype.zip` file.
 3.  Move the extracted `.simdevicetype` file to:
 
 ```{=html}
-<!-- -->
-```
-    /Library/Developer/CoreSimulator/Profiles/DeviceTypes
+/Library/Developer/CoreSimulator/Profiles/DeviceTypes
 
+```
+    
 4.  Restart **Xcode** (if open) and the **Simulator** app.
 
 The device should now appear in the **Simulator device list**.
