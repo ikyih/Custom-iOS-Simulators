@@ -24,7 +24,6 @@ Each device is provided as a `.simdevicetype.zip` file.
 
 ```{=html}
 /Library/Developer/CoreSimulator/Profiles/DeviceTypes
-
 ```
     
 4.  Restart **Xcode** (if open) and the **Simulator** app.
